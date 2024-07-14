@@ -1,0 +1,30 @@
+{
+
+    "name" : "gowrishankar",
+    "age"  : 28,
+    "currentLocation" : "Chennai",
+    "nativeLocation"  : "Trichy",
+    "email" : "sm.gowrishankar007@gmail.com",
+    "phoneNumber" : 8072029602,
+    "education" : {
+        "college" : "SRM Engineering College",
+        "location": "Trichy",
+        "degree"  : "Bachelour of Engineering",
+        "department" : "Electrical and Electronics",
+        "CGPA": 6.45
+    },
+    "currentCompany": {
+        "name" : "Guidehouse India",
+        "location":"Chennai",
+        "designation":"Team Lead",
+        "experience": "5.6 Years"
+    },
+    "skillSets" : {
+        "programmingLanguages" : ["HTML","CSS","JS","React"],
+        "tools" : ["Git","Github","JIRA","VS Code"]
+        },
+    "languagesKnown" : ["English","Tamil"],
+    "hobbies" : "reading books"
+
+
+}
