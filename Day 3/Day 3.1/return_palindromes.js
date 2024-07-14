@@ -1,4 +1,4 @@
-let strArray = ["suresh","level","mom","lucky","see","dad"]
+let strArray = ["gowri","level","mom","lucky","see","dad"]
 
 function isPalindrome(word) {
     let reversedWord = word.split("").reverse().join("");
